@@ -1,0 +1,15 @@
+.post{
+  border: 1px solid black;
+  border-radius: 30px;
+  background-color: rgb(170, 175, 174);
+  margin: 20px;
+  padding: 20px;
+}
+
+.post > .title{
+  font-size: 32px;
+  display: block;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
